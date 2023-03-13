@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.app-container {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.app-heading {
+  font-family: Lobster;
+}
+.lang-button {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+  font-family: Roboto;
+  font-weight: 600;
+  font-size: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.language-card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  list-style-type: none;
+  padding: 30px;
+}
+.repository-items-hold-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  list-style-type: none;
+}

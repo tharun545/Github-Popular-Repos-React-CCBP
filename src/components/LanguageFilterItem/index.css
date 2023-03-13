@@ -1,0 +1,35 @@
+/* Write your CSS here */
+
+.lang-button {
+  font-family: Roboto;
+  font-weight: 600;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.ALL {
+  border: 1px #0284c7 solid;
+  color: #0284c7;
+  border-radius: 20px;
+}
+
+.JAVASCRIPT {
+  border: 1px #0284c7 solid;
+  color: #0284c7;
+  border-radius: 20px;
+}
+.RUBY {
+  border: 1px #0284c7 solid;
+  color: #0284c7;
+  border-radius: 20px;
+}
+.JAVA {
+  border: 1px #0284c7 solid;
+  color: #0284c7;
+  border-radius: 20px;
+}
+.CSS {
+  border: 1px #0284c7 solid;
+  color: #0284c7;
+  border-radius: 20px;
+}

@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.repository-card {
+  background-color: #f8f8ff;
+  margin: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 30px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 280px;
+}
+
+.avatar-icon {
+  width: 60px;
+  height: 60px;
+}
+.repository-name {
+  color: #e73959;
+  font-family: Roboto;
+}
+.para {
+  color: #1e293b;
+  font-family: Roboto;
+}
+.image-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.para-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
